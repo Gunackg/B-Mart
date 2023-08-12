@@ -101,7 +101,7 @@
 	<script src="main.js"></script>
 </body>
 <div class="foot"><footer>
-<p> Brought To You By <a href="https://code-projects.org/">Guna</a></p>
+<p> Brought To You By Guna</a></p>
 </footer></div>
 <style> .foot{text-align: center;}
 </style>
